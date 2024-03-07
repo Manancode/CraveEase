@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289525531978",
+    "project_id": "craveease-77304",
+    "storage_bucket": "craveease-77304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289525531978:android:c8ea972013cadf137a2db3",
+        "android_client_info": {
+          "package_name": "com.example.theekhai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MSOSONK0945X2INOQEUYpdwAixPLGRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
